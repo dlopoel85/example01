@@ -2,16 +2,17 @@ public class HomeorkIfMethod {
 
     public static void main(String[] args) {
 
-        char letter = '/';
+        char letter = '+';
 
-        int a = 9;
-        int b = 4;
+        int a = 10;
+        int b = 5;
         int c = 0;
 
 
-        resultOfnumber(letter);
-
-        public static void resultOfnumber(char charof) {
+        resultOfnumber(letter, a, b, c);
+        System.out.println("-----------------------------");
+    }
+        public static void resultOfnumber(char letter, int a, int b, int c) {
 
 
         if (letter == '+') {
@@ -33,6 +34,5 @@ public class HomeorkIfMethod {
             System.out.println("Műveleti jel: " + letter + " eredmény: " + c);
         }
 
-        System.out.println("-----------------------------");
-    }
+
 }
