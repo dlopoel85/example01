@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8c43710-1bd7-428a-884e-0c9be8c2c659" name="Changes" comment="1,2 kész, 3 folyamatban">
-      <change afterPath="$PROJECT_DIR$/src/HomeorkIfMethodWhile.java" afterDir="false" />
+    <list default="true" id="d8c43710-1bd7-428a-884e-0c9be8c2c659" name="Changes" comment="3. feladat működik">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeorkIfMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeorkIfMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeorkIfMethodWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeorkIfMethodWhile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -61,7 +65,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "mistermaster",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/oszka/IdeaProjects/Homework01/src/Main.java"
   }
@@ -136,12 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709835603296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3. feladat működik">
+      <option name="closed" value="true" />
+      <created>1709898765418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709898765418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1,2 kész, 3 folyamatban" />
-    <option name="LAST_COMMIT_MESSAGE" value="1,2 kész, 3 folyamatban" />
+    <MESSAGE value="3. feladat működik" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. feladat működik" />
   </component>
 </project>

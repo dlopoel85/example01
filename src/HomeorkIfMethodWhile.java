@@ -6,8 +6,8 @@ public class HomeorkIfMethodWhile {
         Scanner scanner = new Scanner(System.in);
 
 
-       // System.out.println("Játék (i/n) ? ");
-       // String answwer = scanner.next();
+        // System.out.println("Játék (i/n) ? ");
+        // String answwer = scanner.next();
 
         //char letter = '+';
         System.out.print("Műveleti jel (+-/*) ? ");
